@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en"> 
 <head>
-    <title>Biba Dridi</title>
+    <title>laura</title>
     
     <!-- Meta -->
     <meta charset="utf-8">
